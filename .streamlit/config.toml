@@ -1,0 +1,17 @@
+[server]
+headless = true
+
+[theme]
+primaryColor = "#4F46E5"
+font = "sans serif"
+baseRadius = "large"
+
+[theme.light]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F4F8"
+textColor = "#1F2937"
+
+[theme.dark]
+backgroundColor = "#0F1117"
+secondaryBackgroundColor = "#1A1D27"
+textColor = "#E5E7EB"
